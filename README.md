@@ -1,14 +1,11 @@
 ## **Olá! Eu sou o Luiz Gustavo**
 
 
-![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustas&show_icons=true&theme=great-gatsby&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgustas&layout=compact&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgustas&bg_color=000000&color=c07307&line=e48b25&point=cd870e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustas&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgustas&layout=compact&theme=dracula)
 
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/lgalmeidadev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank&)](https://www.linkedin.com/in/lgalmeidadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgu_n/)
 
 
