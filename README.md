@@ -4,7 +4,7 @@
 ![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustas&show_icons=true&theme=great-gatsby&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgustas&layout=compact&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgustas&bg_color=000000&color=c07307&line=e48b25&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgustas&bg_color=000000&color=c07307&line=e48b25&point=cd870e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
