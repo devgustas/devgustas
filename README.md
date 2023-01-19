@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Gustavo
+## **Olá! Eu sou o Luiz Gustavo**
 
 
 ![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustas&show_icons=true&theme=dark)
@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgalmeidadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgu_n/)
 
-### Skills
+### **Skills**
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,3 +18,5 @@
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgustas&bg_color=000000&color=1eff00&line=ffffff&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
