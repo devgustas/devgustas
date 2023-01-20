@@ -1,9 +1,9 @@
 ## **Olá! Eu sou o Luiz Gustavo**
 
-
-![Luiz Gustavo GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devgustas&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devgustas&layout=compact&theme=dracula)
-
+<div align="center">
+    <img width="49%" height="195px" alt="Luiz Gustavo GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devgustas&show_icons=true&theme=dracula">
+    <img width="41%" height="195px" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devgustas&layout=compact&theme=dracula">
+<div/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank&)](https://www.linkedin.com/in/lgalmeidadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgu_n/)
